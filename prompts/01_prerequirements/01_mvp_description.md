@@ -1,5 +1,4 @@
 ### Główny problem
-
 Nasza grupa często ma problem z ustaleniem wspólnego terminu dogodnego dla wszystkich uczestników. Klasyczne rozwiązania, grupa na discordzie, arkusze Google czy aplikacja doodle, są niewygodne, nieczytelne i często prowadzą do utraty informacji o wybranym terminie.
 
 Brakuje prostego narzędzia, które umożliwiłoby każdemu użytkownikowi:
